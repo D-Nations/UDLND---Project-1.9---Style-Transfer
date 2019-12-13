@@ -1,0 +1,3 @@
+# UDLND---Project-1.9---Style-Transfer
+
+In this project I learned to use VGG19 to map the style of one picture onto the content of another.  There was not too much involved in completing the actual project - just learning the basics of pathing in python, importing a trained model, and figuring out how to change the layers to transfer the style.  But, this is easily the model that I have had the most fun with on my own.  I've used this model to alter photos of friends and family and played around with a lot of different styles to find out which would produce the best results.  My personal favorite was a Dali painting.  I used it to produce the current picture for my github profile.  This was lots of fun.
